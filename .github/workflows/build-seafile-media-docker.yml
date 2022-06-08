@@ -1,4 +1,4 @@
-name: Build Seafile Media Docker Image
+name: Build Seahub Media Docker Image
 
 on:
   push:
