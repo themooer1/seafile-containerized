@@ -22,7 +22,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v4
         with:
-          images: themooer1/seafile-media
+          images: ghcr.io/themooer1/seafile-media
       -
         name: Set up QEMU
         uses: docker/setup-qemu-action@v2
